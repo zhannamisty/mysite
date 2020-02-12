@@ -22,7 +22,7 @@ cx-Freeze==5.0.2
 cycler==0.10.0
 defusedxml==0.5.0
 diff-match-patch==20181111
-Django==2.1.7
+Django==2.2.10
 django-barcode==0.1.1
 django-celery==3.2.2
 django-crispy-forms==1.7.2
