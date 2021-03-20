@@ -51,7 +51,7 @@ itsdangerous==1.1.0
 jaraco.functools==2.0
 javascripthon==0.10
 jdcal==1.4
-Jinja2==2.10
+Jinja2==2.11.3
 joblib==0.13.2
 jsmin==2.2.2
 jupyter-echarts-pypkg==0.1.2
