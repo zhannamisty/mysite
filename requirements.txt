@@ -94,7 +94,7 @@ PyYAML==5.1
 pyzbar==0.1.8
 qrcode==6.1
 readFile==1.0.3
-reportlab==3.5.19
+reportlab==3.5.55
 requests==2.21.0
 reversion==0.2
 scikit-learn==0.21.2
